@@ -1,4 +1,4 @@
-buscarImagensDosPersonagens() {
+function buscarImagensDosPersonagens() {
     
  //Site utilizado 'https://sanrio.com.br';
  let imagens = document.querySelectorAll("div.characters-banner img")
