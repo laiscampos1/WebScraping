@@ -5,3 +5,5 @@ buscarImagensDosPersonagens() {
 imagens.forEach(imagem=>{
     console.log(imagem)
 })
+}
+buscarImagensDosPersonagens();
